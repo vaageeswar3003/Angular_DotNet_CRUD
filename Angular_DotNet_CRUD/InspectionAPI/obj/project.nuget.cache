@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZydmH1/fNXXAeR2CRj9p89hTaoYVD175c5LCbUIcICZCQOxrYYNBv9yOk7lhehfNm0GqwGPJMMa9SUT++eWd3A==",
+  "dgSpecHash": "3JYpOo2WgrJ+CsIr0Z45nEMbh9eOLx6MkpM56RXcVfWSKjNCijxqAmgMDRIMQU5uCdxBLswg7495uWp4GOC7kg==",
   "success": true,
-  "projectFilePath": "E:\\InspectionAPIApp\\InspectionAPI\\InspectionAPI.csproj",
+  "projectFilePath": "E:\\InspectionAPIApp\\Angular_DotNet_CRUD\\InspectionAPI\\InspectionAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vaage\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\vaage\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

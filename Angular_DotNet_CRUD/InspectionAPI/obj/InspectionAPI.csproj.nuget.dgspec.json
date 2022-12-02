@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\InspectionAPIApp\\InspectionAPI\\InspectionAPI.csproj": {}
+    "E:\\InspectionAPIApp\\Angular_DotNet_CRUD\\InspectionAPI\\InspectionAPI.csproj": {}
   },
   "projects": {
-    "E:\\InspectionAPIApp\\InspectionAPI\\InspectionAPI.csproj": {
+    "E:\\InspectionAPIApp\\Angular_DotNet_CRUD\\InspectionAPI\\InspectionAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\InspectionAPIApp\\InspectionAPI\\InspectionAPI.csproj",
+        "projectUniqueName": "E:\\InspectionAPIApp\\Angular_DotNet_CRUD\\InspectionAPI\\InspectionAPI.csproj",
         "projectName": "InspectionAPI",
-        "projectPath": "E:\\InspectionAPIApp\\InspectionAPI\\InspectionAPI.csproj",
+        "projectPath": "E:\\InspectionAPIApp\\Angular_DotNet_CRUD\\InspectionAPI\\InspectionAPI.csproj",
         "packagesPath": "C:\\Users\\vaage\\.nuget\\packages\\",
-        "outputPath": "E:\\InspectionAPIApp\\InspectionAPI\\obj\\",
+        "outputPath": "E:\\InspectionAPIApp\\Angular_DotNet_CRUD\\InspectionAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vaage\\AppData\\Roaming\\NuGet\\NuGet.Config",

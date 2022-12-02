@@ -8,73 +8,73 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InspectionAPI
 build_property.RootNamespace = InspectionAPI
-build_property.ProjectDir = E:\InspectionAPIApp\InspectionAPI\
+build_property.ProjectDir = E:\InspectionAPIApp\Angular_DotNet_CRUD\InspectionAPI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\InspectionAPIApp\InspectionAPI
+build_property.MSBuildProjectDirectory = E:\InspectionAPIApp\Angular_DotNet_CRUD\InspectionAPI
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/InspectionAPIApp/InspectionAPI/Views/Inspections/Create.cshtml]
+[E:/InspectionAPIApp/Angular_DotNet_CRUD/InspectionAPI/Views/Inspections/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdGlvbnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/InspectionAPIApp/InspectionAPI/Views/Inspections/Delete.cshtml]
+[E:/InspectionAPIApp/Angular_DotNet_CRUD/InspectionAPI/Views/Inspections/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdGlvbnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/InspectionAPIApp/InspectionAPI/Views/Inspections/Details.cshtml]
+[E:/InspectionAPIApp/Angular_DotNet_CRUD/InspectionAPI/Views/Inspections/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdGlvbnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/InspectionAPIApp/InspectionAPI/Views/Inspections/Edit.cshtml]
+[E:/InspectionAPIApp/Angular_DotNet_CRUD/InspectionAPI/Views/Inspections/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdGlvbnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/InspectionAPIApp/InspectionAPI/Views/Inspections/Index.cshtml]
+[E:/InspectionAPIApp/Angular_DotNet_CRUD/InspectionAPI/Views/Inspections/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdGlvbnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/InspectionAPIApp/InspectionAPI/Views/InspectionTypes/Create.cshtml]
+[E:/InspectionAPIApp/Angular_DotNet_CRUD/InspectionAPI/Views/InspectionTypes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdGlvblR5cGVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/InspectionAPIApp/InspectionAPI/Views/InspectionTypes/Delete.cshtml]
+[E:/InspectionAPIApp/Angular_DotNet_CRUD/InspectionAPI/Views/InspectionTypes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdGlvblR5cGVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/InspectionAPIApp/InspectionAPI/Views/InspectionTypes/Details.cshtml]
+[E:/InspectionAPIApp/Angular_DotNet_CRUD/InspectionAPI/Views/InspectionTypes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdGlvblR5cGVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/InspectionAPIApp/InspectionAPI/Views/InspectionTypes/Edit.cshtml]
+[E:/InspectionAPIApp/Angular_DotNet_CRUD/InspectionAPI/Views/InspectionTypes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdGlvblR5cGVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/InspectionAPIApp/InspectionAPI/Views/InspectionTypes/Index.cshtml]
+[E:/InspectionAPIApp/Angular_DotNet_CRUD/InspectionAPI/Views/InspectionTypes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdGlvblR5cGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/InspectionAPIApp/InspectionAPI/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/InspectionAPIApp/Angular_DotNet_CRUD/InspectionAPI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/InspectionAPIApp/InspectionAPI/Views/Status/Create.cshtml]
+[E:/InspectionAPIApp/Angular_DotNet_CRUD/InspectionAPI/Views/Status/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/InspectionAPIApp/InspectionAPI/Views/Status/Delete.cshtml]
+[E:/InspectionAPIApp/Angular_DotNet_CRUD/InspectionAPI/Views/Status/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/InspectionAPIApp/InspectionAPI/Views/Status/Details.cshtml]
+[E:/InspectionAPIApp/Angular_DotNet_CRUD/InspectionAPI/Views/Status/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/InspectionAPIApp/InspectionAPI/Views/Status/Edit.cshtml]
+[E:/InspectionAPIApp/Angular_DotNet_CRUD/InspectionAPI/Views/Status/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/InspectionAPIApp/InspectionAPI/Views/Status/Index.cshtml]
+[E:/InspectionAPIApp/Angular_DotNet_CRUD/InspectionAPI/Views/Status/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
