@@ -1,5 +1,5 @@
 {
-  "name": "inspection-ui",
+  "name": "dotnet-angular-api",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -20,8 +20,7 @@
     "@angular/router": "^14.2.0",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
-    "zone.js": "~0.11.4",
-    "jest-editor-support": "*"
+    "zone.js": "~0.11.4"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^14.2.4",

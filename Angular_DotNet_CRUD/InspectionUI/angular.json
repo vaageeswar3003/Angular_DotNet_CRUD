@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "InspectionUI": {
+    "dotnet-angular-api": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/inspection-ui",
+            "outputPath": "dist/dotnet-angular-api",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -64,10 +64,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "InspectionUI:build:production"
+              "browserTarget": "dotnet-angular-api:build:production"
             },
             "development": {
-              "browserTarget": "InspectionUI:build:development"
+              "browserTarget": "dotnet-angular-api:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -75,7 +75,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "InspectionUI:build"
+            "browserTarget": "dotnet-angular-api:build"
           }
         },
         "test": {
