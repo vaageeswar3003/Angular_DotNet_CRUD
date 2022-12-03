@@ -9,6 +9,7 @@ import { InspectionComponent } from './inspection/inspection.component';
 import { ShowInspectionComponent } from './inspection/show-inspection/show-inspection.component';
 import { AddEditInspectionComponent } from './inspection/add-edit-inspection/add-edit-inspection.component';
 import { InspectionApiService } from './inspection-api.service';
+import { CommonModule } from '@angular/common';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { InspectionApiService } from './inspection-api.service';
     BrowserModule,
     HttpClientModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    CommonModule
   ],
   providers: [InspectionApiService],
   bootstrap: [AppComponent]

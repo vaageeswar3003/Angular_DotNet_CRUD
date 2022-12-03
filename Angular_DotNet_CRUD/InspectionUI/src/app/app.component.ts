@@ -1,5 +1,6 @@
-import { Component, ElementRef, ViewChild } from '@angular/core';
-import { InspectionApiService } from './inspection-api.service';
+import { Component} from '@angular/core';
+
+
 
 @Component({
   selector: 'app-root',
@@ -7,6 +8,10 @@ import { InspectionApiService } from './inspection-api.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+
+  filename:string = '';
+  isValid:boolean = false;
+
 
   constructor() {}
 
